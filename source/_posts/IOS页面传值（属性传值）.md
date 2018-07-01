@@ -1,4 +1,14 @@
-### IOS 	页面传值的方式（属性传值）
+---
+title: IOS页面传值（属性传值）
+date: 2018-07-01 16:03:52
+tags:IOS
+---
+
+
+
+## IOS 	页面传值的方式（属性传值）
+
+
 
 ![放张美图放放松](https://images.pexels.com/photos/733174/pexels-photo-733174.jpeg?cs=srgb&dl=adventure-asia-background-733174.jpg&fm=jpg)
 
@@ -27,7 +37,7 @@
 
 
 
-2. 页面1发送数据
+1. 页面1发送数据
 
 ```
 //
@@ -94,7 +104,7 @@
 
 
 
-3.  然后页面2接收
+1. 然后页面2接收
 
 ```
 #import "NextViewController.h"
@@ -159,4 +169,5 @@
 @end
 
 ```
+
 这个传值方式非常容易理解！ 用java来看就是对对象的属性赋值
